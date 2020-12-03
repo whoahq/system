@@ -1,0 +1,24 @@
+#ifndef SYSTEM_SYSTEM_HPP
+#define SYSTEM_SYSTEM_HPP
+
+// System versions
+#define WHOA_WIN_UNK 9999
+#define WHOA_WIN_XP 510
+#define WHOA_WIN_VISTA 600
+#define WHOA_WIN_7 610
+#define WHOA_WIN_8 620
+#define WHOA_WIN_8_1 630
+#define WHOA_WIN_10 1000
+#define WHOA_MAC_UNK 9999
+#define WHOA_MAC_10_8 1008
+#define WHOA_MAC_10_9 1009
+#define WHOA_MAC_10_10 1010
+#define WHOA_MAC_10_11 1011
+#define WHOA_MAC_10_12 1012
+#define WHOA_MAC_10_13 1013
+#define WHOA_MAC_10_14 1014
+#define WHOA_MAC_10_15 1015
+#define WHOA_MAC_11_0 1100
+#define WHOA_LINUX_UNK 9999
+
+#endif
